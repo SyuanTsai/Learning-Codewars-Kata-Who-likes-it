@@ -1,8 +1,9 @@
-# No additional license
+# License decision record
 
-This file is a rights-boundary record, not a license.
+The earlier no-additional-license state recorded by this file is superseded on
+2026-09-05 by the scoped MIT grant in [MIT.txt](MIT.txt).
 
-As of 2026-09-05, this branch grants no additional license. A future MIT
-license must be limited to the repository-authored implementation and tests
-and must exclude the Codewars prompt, hidden tests, platform, trademarks, and
-external content.
+The MIT grant applies only to the exact solution and test paths listed in
+[../LICENSE-SCOPE.md](../LICENSE-SCOPE.md). The Codewars prompt, hidden tests,
+platform, trademarks, external content, and every unlisted path remain outside
+that grant.
