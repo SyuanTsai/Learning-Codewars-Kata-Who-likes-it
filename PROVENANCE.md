@@ -8,6 +8,7 @@ The reviewed tree contains a .NET solution, one implementation project, and
 one unit-test project. The repository does not contain a copy of the original
 kata prompt or hidden tests.
 
-This branch records the proposed separation between the local implementation
-and the external exercise. No additional license is granted until the owner
-explicitly authorizes the exact MIT scope.
+Owner authorization confirmed on 2026-09-05 applies to the exact solution,
+implementation, project, and test paths listed in LICENSE-SCOPE.md. The branch
+publishes the standard MIT text for those local files only. The Codewars
+exercise and platform remain external.
