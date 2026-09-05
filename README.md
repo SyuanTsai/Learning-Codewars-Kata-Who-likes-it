@@ -9,11 +9,11 @@ claim of production completeness.
 
 ## Rights status
 
-This branch documents a proposed MIT scope for the local implementation and
-tests, but grants no additional license until explicitly authorized. The
-Codewars exercise and platform retain their own rights.
+[LICENSES/MIT.txt](LICENSES/MIT.txt) grants MIT only to the exact
+repository-authored solution and test paths listed in
+[LICENSE-SCOPE.md](LICENSE-SCOPE.md). The Codewars exercise, platform,
+trademarks, prompt, hidden tests, and external content retain their own rights.
 
-See [LICENSE-SCOPE.md](LICENSE-SCOPE.md),
-[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md),
+See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md),
 [PROVENANCE.md](PROVENANCE.md), and
 [LICENSES/NO-ADDITIONAL-LICENSE.md](LICENSES/NO-ADDITIONAL-LICENSE.md).
