@@ -1,12 +1,16 @@
 # License scope
 
-No additional license is granted by this branch.
+The MIT text in [LICENSES/MIT.txt](LICENSES/MIT.txt) is effective only for
+these exact repository-authored paths:
 
-The repository contains a small solution and unit tests for the Codewars "Who
-likes it?" kata. The MIT grant proposed for review would cover only
-repository-authored implementation and tests after explicit owner
-authorization.
+- `Kata-Who-likes-it.sln`
+- `WhoLikesIt/WhoLikesIt.cs`
+- `WhoLikesIt/WhoLikesIt.csproj`
+- `WhoLikesIt.UnitTest/Usings.cs`
+- `WhoLikesIt.UnitTest/WhoLikesIt.Test.cs`
+- `WhoLikesIt.UnitTest/WhoLikesIt.UnitTest.csproj`
 
-The original kata statement, hidden tests, Codewars platform, trademarks, and
-any external content are not included in that proposed scope. The repository
-does not reproduce the kata prompt.
+The original Codewars statement, hidden tests, platform, trademarks, external
+content, and unlisted files are excluded. The license and rights-boundary
+records do not expand this path list. Future files require a separate source
+and rights review.
